@@ -45,8 +45,8 @@ Deploy the Web application to IIS
 - Make sure the Web site has a default document of 'Default.aspx' enabled
 
 
-Install and publish the ArcGIS proxy handler to IIS
----------------------------------------------------
+Install and publish the ArcGIS proxy handler page to IIS
+---------------------------------------------------------
 - The proxy.ashx and associated proxy.config file are in the web subfolder, but can be deployed to any desired Web site.  Default ASP settings should be sufficient (minimum of v2.0 required)
 - Make sure there are two files:
    o proxy.ashx
