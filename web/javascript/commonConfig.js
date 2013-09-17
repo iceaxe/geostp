@@ -15,7 +15,7 @@ define(
                     'name': 'NOAA Weather Warnings',
                     'type': 'map',
                     'url': "http://gis.srh.noaa.gov/ArcGIS/rest/services/Radar_warnings/MapServer",
-                    'vsible': false
+                    'visible': false
                 },
                 {
                     'name': 'US City Weather Forecast',
