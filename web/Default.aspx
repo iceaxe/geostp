@@ -93,7 +93,7 @@
                     <!-- Layer List (hard coded - yuck) -->
                     <div data-dojo-type="dijit/layout/ContentPane" title="Layers">
                         <p>
-                            <input id="nwsrw" name="nwsrw" data-dojo-type="dijit/form/CheckBox" titleonChange="app.toggleLayer('nwsrw', arguments[0])" /> 
+                            <input id="nwsrw" name="nwsrw" data-dojo-type="dijit/form/CheckBox" onChange="app.toggleLayer('nwsrw', arguments[0])" /> 
                             <label for="nwsrw">NWS Radar Warnings</label>
                         </p>
                         <p>
