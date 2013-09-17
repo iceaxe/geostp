@@ -8,7 +8,7 @@ Setting up the application
 Take the following steps to deploy and configure the application.
 
 PostGreSQL Database
-===================
+-------------------
 - Use or create a pgSQL db instance
 - Do one of the following:
 
@@ -40,13 +40,13 @@ PostGreSQL Database
 
 
 Deploy the Web application to IIS
-=================================
+---------------------------------
 - Publish the contents of the web folder to a Web site in IIS 7.x.  Default ASP settings should be sufficient (app uses v4.5 of the .NET Framework)
 - Make sure the Web site has a default document of 'Default.aspx' enabled
 
 
 Install and publish the ArcGIS proxy handler to IIS
-===================================================
+---------------------------------------------------
 - The proxy.ashx and associated proxy.config file are in the web subfolder, but can be deployed to any desired Web site.  Default ASP settings should be sufficient (minimum of v2.0 required)
 - Make sure there are two files:
    o proxy.ashx
