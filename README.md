@@ -59,3 +59,6 @@ Install and publish the ArcGIS proxy handler page to IIS
    o http://services1.arcgis.com/
 - Make sure the STP config file commonConfig.js in the javascript folder has the following parameter set, pointing to your local location of the proxy.ashx and using either a relative or fully-qualified URL:
    o config.helperservices.proxyurl
+
+
+HIT THE URL!!
