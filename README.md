@@ -57,6 +57,5 @@ Install and publish the ArcGIS proxy handler to IIS
    o http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/
    o http://server.arcgisonline.com/arcgis/rest/services/
    o http://services1.arcgis.com/
-- Make sure the STP config file commonConfig.js in the javascript folder has the following parameter set, pointing to your local
-	  location of the proxy.ashx and using either a relative or fully-qualified URL:
+- Make sure the STP config file commonConfig.js in the javascript folder has the following parameter set, pointing to your local location of the proxy.ashx and using either a relative or fully-qualified URL:
    o config.helperservices.proxyurl
