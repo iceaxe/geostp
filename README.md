@@ -11,6 +11,7 @@ PostGreSQL Database
 ===================
 - Use or create a pgSQL db instance
 - Do one of the following:
+
    o Create a table named "user" using the following DDL:
 
              CREATE TABLE "user"
