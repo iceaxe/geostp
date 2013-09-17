@@ -29,8 +29,6 @@ PostGreSQL Database
 
    o Use the PGSQL database dump file 'stp.dump' in the 'data' folder and import the 'stp' database into your PGSQL instance, and use any of the following user IDs when logging in:
       * user: crb, password: geocrb
-      * user: scot, password: mcqueen
-      * user: blair, password: deaver
       * user: stprider, stprider
 
 - Enter the following connection parameters into the Web.config of the 'stp' Web application:
