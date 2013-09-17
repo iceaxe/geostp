@@ -11,7 +11,7 @@ PostGreSQL Database
 ===================
 - Use or create a pgSQL db instance
 - Do one of the following:
-   1. Create a table named "user" using the following DDL:
+   o Create a table named "user" using the following DDL:
 
              CREATE TABLE "user"
              (
@@ -26,7 +26,7 @@ PostGreSQL Database
 
       * Populate the database with usernames and passwords
 
-   2. Use the PGSQL database dump file 'stp.dump' in the 'data' folder and import the 'stp' database into your PGSQL instance, and use any of the following user IDs when logging in:
+   o Use the PGSQL database dump file 'stp.dump' in the 'data' folder and import the 'stp' database into your PGSQL instance, and use any of the following user IDs when logging in:
       * user: crb, password: geocrb
       * user: scot, password: mcqueen
       * user: blair, password: deaver
