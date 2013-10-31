@@ -1,6 +1,6 @@
 Overview
 ========
-This project is for the SmartMine Developer Challenge.  It is a guide to the route of the Seattle to Portland Bicycle Ride, or STP.  It's meant to illustrate the exact route of the ride, and to allow users to add events to the map, or "incidents", that the riders may want to be aware of.  Users can add and delete "warning" incidents to the map, provide a brief description of the incident and contact information for additional information.
+This project is playground to work with the ArcGIS Server JavaScript API and some of the new AMD features. It serves as a guide to the route of the Seattle to Portland Bicycle Ride, or STP.  It's meant to illustrate the exact route of the ride, and to allow users to add events to the map, or "incidents", that the riders may want to be aware of.  Users can add and delete "warning" incidents to the map, provide a brief description of the incident and contact information for additional information.
 
 
 Setting up the application
